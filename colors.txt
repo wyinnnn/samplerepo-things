@@ -1,1 +1,4 @@
-Replaced colours
+blue
+red
+white
+yellow
